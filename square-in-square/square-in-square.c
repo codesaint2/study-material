@@ -1,4 +1,6 @@
 /*****************************************************************************************
+https://www.hackerearth.com/problem/algorithm/baby-ko-box-pasand-hai-3/
+
 Problem : Square in a Square
 
 Idea is to take a number as input and print a pattern of boxes If input is 2, 
@@ -42,4 +44,5 @@ int main(){
 		}
 		printf("\n");
 	}
+	return 0;
 }
